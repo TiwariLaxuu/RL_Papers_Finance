@@ -11,10 +11,10 @@ RL has also been applied to develop automated trading systems that can operate i
 It is important to note that RL is a complex field and the success of a RL based strategy in finance depends on the quality of the data, the model and the reward function used. It's also important to consider the limitations of RL in finance, such as the assumption of fully observable and stationary environment, which may not be realistic in the complex and dynamic financial markets.
 
 
-📜 RL Papers in Finance
+*** 📜 RL Papers in Finance
 A curated list of research papers on Reinforcement Learning (RL) applied in Finance and Trading. This includes portfolio optimization, algorithmic trading, market making, and risk management.
 
-📌 1. General RL in Finance
+*** 📌 1. General RL in Finance
 Deep Reinforcement Learning for Automated Stock Trading
 
 By Yang, Neuneier, Hu, et al. (2020)
