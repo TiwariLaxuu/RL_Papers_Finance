@@ -11,58 +11,87 @@ RL has also been applied to develop automated trading systems that can operate i
 It is important to note that RL is a complex field and the success of a RL based strategy in finance depends on the quality of the data, the model and the reward function used. It's also important to consider the limitations of RL in finance, such as the assumption of fully observable and stationary environment, which may not be realistic in the complex and dynamic financial markets.
 
 
-*** 📜 RL Papers in Finance
-A curated list of research papers on Reinforcement Learning (RL) applied in Finance and Trading. This includes portfolio optimization, algorithmic trading, market making, and risk management.
 
-*** 📌 1. General RL in Finance
-Deep Reinforcement Learning for Automated Stock Trading
+# 📜 RL Papers in Finance
 
-By Yang, Neuneier, Hu, et al. (2020)
-📄 Paper
-A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem
+A curated list of research papers on **Reinforcement Learning (RL) applied in Finance and Trading**. This includes portfolio optimization, algorithmic trading, market making, and risk management.
 
-By Jiang, Xu, Liang (2017)
-📄 Paper
-📌 2. Portfolio Optimization
-Deep Reinforcement Learning for Asset Allocation
+---
 
-By Yu et al. (2019)
-📄 Paper
-Reinforcement Learning for Portfolio Optimization
+## 📌 General RL in Finance
 
-By Almahdi & Yang (2017)
-📄 Paper
-📌 3. Market Making & Order Execution
-Deep Reinforcement Learning in Market Making
+1. **Deep Reinforcement Learning for Automated Stock Trading**  
+   *Yang, Neuneier, Hu, et al. (2020)*  
+   📄 [Paper](https://arxiv.org/abs/2002.05719)  
 
-By Spooner et al. (2018)
-📄 Paper
-Optimal Execution with Reinforcement Learning
+2. **A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem**  
+   *Jiang, Xu, Liang (2017)*  
+   📄 [Paper](https://arxiv.org/abs/1706.10059)  
 
-By Nevmyvaka, Feng, & Kearns (2006)
-📄 Paper
-📌 4. High-Frequency Trading & Limit Order Books
-Deep Reinforcement Learning for High-Frequency Trading
+---
 
-By Zhengyao et al. (2019)
-📄 Paper
-Reinforcement Learning in Limit Order Books
+## 📌 Portfolio Optimization
 
-By Ganeshapillai, Guttag, Lo (2013)
-📄 Paper
-📌 5. Risk Management & Other Topics
-Deep Reinforcement Learning for Risk Management and Asset Pricing
+3. **Deep Reinforcement Learning for Asset Allocation**  
+   *Yu et al. (2019)*  
+   📄 [Paper](https://arxiv.org/abs/1904.04980)  
 
-By Halperin (2019)
-📄 Paper
-Policy Gradients for Risk-Sensitive Reinforcement Learning
+4. **Reinforcement Learning for Portfolio Optimization**  
+   *Almahdi & Yang (2017)*  
+   📄 [Paper](https://arxiv.org/abs/1701.01764)  
 
-By Chow & Ghavamzadeh (2014)
-📄 Paper
-📌 6. RL Libraries for Finance
-🔹 TradeMaster – GitHub
-🔹 FinRL – GitHub
-🔹 DeepTrader – GitHub
+---
 
-🔥 Contributions
-Feel free to add more papers via a Pull Request (PR)! 🚀
+## 📌 Market Making & Order Execution
+
+5. **Deep Reinforcement Learning in Market Making**  
+   *Spooner et al. (2018)*  
+   📄 [Paper](https://arxiv.org/abs/1804.04206)  
+
+6. **Optimal Execution with Reinforcement Learning**  
+   *Nevmyvaka, Feng, & Kearns (2006)*  
+   📄 [Paper](https://arxiv.org/abs/1605.05153)  
+
+---
+
+## 📌 High-Frequency Trading & Limit Order Books
+
+7. **Deep Reinforcement Learning for High-Frequency Trading**  
+   *Zhengyao et al. (2019)*  
+   📄 [Paper](https://arxiv.org/abs/1909.09685)  
+
+8. **Reinforcement Learning in Limit Order Books**  
+   *Ganeshapillai, Guttag, Lo (2013)*  
+   📄 [Paper](https://arxiv.org/abs/1305.0324)  
+
+---
+
+## 📌 Risk Management & Other Topics
+
+9. **Deep Reinforcement Learning for Risk Management and Asset Pricing**  
+   *Halperin (2019)*  
+   📄 [Paper](https://arxiv.org/abs/1906.10717)  
+
+10. **Policy Gradients for Risk-Sensitive Reinforcement Learning**  
+   *Chow & Ghavamzadeh (2014)*  
+   📄 [Paper](https://arxiv.org/abs/1401.0027)  
+
+---
+
+## 📌 RL Libraries for Finance
+
+- **TradeMaster** – [GitHub](https://github.com/TradeMaster-NTU/TradeMaster)  
+- **FinRL** – [GitHub](https://github.com/AI4Finance-Foundation/FinRL)  
+- **DeepTrader** – [GitHub](https://github.com/deep-trader/deep-trader)  
+
+---
+
+## 🔥 Contributions
+
+- Feel free to **add more papers** via a **Pull Request (PR)**! 🚀  
+- If you find an interesting RL paper in finance, submit an issue! 📝  
+
+---
+
+🌟 **Star this repo if you find it helpful!** ⭐
+
